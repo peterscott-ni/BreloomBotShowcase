@@ -1,0 +1,12 @@
+.vs/
+.vscode/
+node_modules/
+Database/
+*.txt
+CSV/
+*.sql
+*.accdb
+*.ini
+BreloomBot.code-workspace
+launch.json
+wordle/
